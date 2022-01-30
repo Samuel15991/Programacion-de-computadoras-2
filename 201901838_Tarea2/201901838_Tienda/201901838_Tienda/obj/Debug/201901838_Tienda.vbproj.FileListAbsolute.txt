@@ -1,0 +1,11 @@
+C:\Users\Jose Pirir\Desktop\1S2022\092\201901838_Tarea2\201901838_Tienda\201901838_Tienda\bin\Debug\201901838_Tienda.exe.config
+C:\Users\Jose Pirir\Desktop\1S2022\092\201901838_Tarea2\201901838_Tienda\201901838_Tienda\bin\Debug\201901838_Tienda.exe
+C:\Users\Jose Pirir\Desktop\1S2022\092\201901838_Tarea2\201901838_Tienda\201901838_Tienda\bin\Debug\201901838_Tienda.pdb
+C:\Users\Jose Pirir\Desktop\1S2022\092\201901838_Tarea2\201901838_Tienda\201901838_Tienda\bin\Debug\201901838_Tienda.xml
+C:\Users\Jose Pirir\Desktop\1S2022\092\201901838_Tarea2\201901838_Tienda\201901838_Tienda\obj\Debug\201901838_Tienda.vbprojResolveAssemblyReference.cache
+C:\Users\Jose Pirir\Desktop\1S2022\092\201901838_Tarea2\201901838_Tienda\201901838_Tienda\obj\Debug\_201901838_Tienda.Form1.resources
+C:\Users\Jose Pirir\Desktop\1S2022\092\201901838_Tarea2\201901838_Tienda\201901838_Tienda\obj\Debug\_201901838_Tienda.Resources.resources
+C:\Users\Jose Pirir\Desktop\1S2022\092\201901838_Tarea2\201901838_Tienda\201901838_Tienda\obj\Debug\201901838_Tienda.vbproj.GenerateResource.Cache
+C:\Users\Jose Pirir\Desktop\1S2022\092\201901838_Tarea2\201901838_Tienda\201901838_Tienda\obj\Debug\201901838_Tienda.exe
+C:\Users\Jose Pirir\Desktop\1S2022\092\201901838_Tarea2\201901838_Tienda\201901838_Tienda\obj\Debug\201901838_Tienda.xml
+C:\Users\Jose Pirir\Desktop\1S2022\092\201901838_Tarea2\201901838_Tienda\201901838_Tienda\obj\Debug\201901838_Tienda.pdb
